@@ -17,13 +17,7 @@ A comprehensive study companion app designed to boost productivity and track lea
 - BoxIcons
 - Inter Font Family
 
-## Getting Started
+## Usage
 
-### Prerequisites
-- Node.js (v14 or later)
-- npm or yarn
+### Try the webapp!
 
-### Installation
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/studyflow.git
