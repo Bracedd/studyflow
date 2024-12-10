@@ -17,7 +17,6 @@ A comprehensive study companion app designed to boost productivity and track lea
 - BoxIcons
 - Inter Font Family
 
-## Usage
-
-### Try the webapp!
+### Usage
+https://studyflowapp.netlify.app/
 
